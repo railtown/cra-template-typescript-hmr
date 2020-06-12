@@ -13,25 +13,6 @@ function App() {
         <p>
           Edit <code>src/App.tsx</code> and save to reload.
         </p>
-        <p>This is cool</p>
-        <Something />
-        <p>
-          <button
-            onClick={() => {
-              setCount(count - 2);
-            }}
-          >
-            -
-          </button>
-          Count {count}
-          <button
-            onClick={() => {
-              setCount(count + 2);
-            }}
-          >
-            +
-          </button>
-        </p>
         <a
           className="App-link"
           href="https://reactjs.org"
