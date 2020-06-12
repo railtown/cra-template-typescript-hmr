@@ -1,11 +1,9 @@
-import React, { useState } from "react";
+import React from "react";
 import logo from "./logo.svg";
 import "./App.css";
 import { hot } from "react-hot-loader/root";
-import Something from "./Something";
 
 function App() {
-  const [count, setCount] = useState(0);
   return (
     <div className="App">
       <header className="App-header">
