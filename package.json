@@ -1,0 +1,26 @@
+{
+  "name": "cra-template-typescript-hmr",
+  "version": "1.0.0",
+  "description": "This is a TypeScript template with hot module reloading support, for [Create React App](https://github.com/facebook/create-react-app).",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/railtown/cra-template-typescript-hmr.git"
+  },
+  "keywords": [
+    "react",
+    "create-react-app",
+    "template"
+  ],
+  "license": "MIT",
+  "engines": {
+    "node": ">=10"
+  },
+  "bugs": {
+    "url": "https://github.com/railtown/cra-template-typescript-hmr/issues"
+  },
+  "homepage": "https://github.com/railtown/cra-template-typescript-hmr#readme",
+  "files": [
+    "template",
+    "template.json"
+  ]
+}
