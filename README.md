@@ -21,4 +21,4 @@ For more information, please refer to:
 
 ## Note
 
-This template uses [react-app-rewuire-hot-loader](https://github.com/cdharris/react-app-rewire-hot-loader), which in turn uses [react-app-rewired](react-app-rewired). The latter overrides [react-scripts](https://github.com/facebook/create-react-app/tree/master/packages/react-scripts), which is what powers Create React App. This may break things in future builds, which I will be responsible for fixing.
+This template uses [react-app-rewire-hot-loader](https://github.com/cdharris/react-app-rewire-hot-loader), which in turn uses [react-app-rewired](react-app-rewired). The latter overrides [react-scripts](https://github.com/facebook/create-react-app/tree/master/packages/react-scripts), which is what powers Create React App. This may break things in future builds, which I will be responsible for fixing.
